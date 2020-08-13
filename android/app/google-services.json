@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296171428706",
+    "firebase_url": "https://speed-chat-47e69.firebaseio.com",
+    "project_id": "speed-chat-47e69",
+    "storage_bucket": "speed-chat-47e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296171428706:android:eccd079a9110942bacea3b",
+        "android_client_info": {
+          "package_name": "co.gleedkfc.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296171428706-sn55mmm30alguunjv4dscskvvsssohi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpi9soyWbP81dnJ6gKMgCuT52Oeep4uoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296171428706-sn55mmm30alguunjv4dscskvvsssohi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

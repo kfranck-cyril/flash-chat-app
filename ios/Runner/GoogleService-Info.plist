@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>296171428706-q7trbpvecqubtn5h1m5gmbe3419eghk6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.296171428706-q7trbpvecqubtn5h1m5gmbe3419eghk6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBoHOGQobbn9WbGGo4k0eVJAsSTEbp_fqA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>296171428706</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.gleedkfc.flashChat</string>
+	<key>PROJECT_ID</key>
+	<string>speed-chat-47e69</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speed-chat-47e69.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:296171428706:ios:0e38e50c8fe0ecf6acea3b</string>
+	<key>DATABASE_URL</key>
+	<string>https://speed-chat-47e69.firebaseio.com</string>
+</dict>
+</plist>
